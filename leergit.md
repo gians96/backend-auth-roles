@@ -17,7 +17,7 @@ es par aenviar al repo local de todos los archivos marcados con el comando git a
 es necesario poner un mensaje o comentario de los cambios que se ha realizado
 
 NOTA si hemos olvidado hacer un cambio y ya habiamos puesto un commit podemos usar
-git commit --amend
+git commit --amendgit
 -------------------------
 Creamos un nuevo repositorio en la nube en esta caso sera en github lo cuales pasamos el parametro
 de todas maneras esta parte esta en el mismo repositorio de github al momento de crearlo
